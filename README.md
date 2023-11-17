@@ -4,7 +4,7 @@ An animated Avatar Guidance App that simulates a journey between two points on a
 
 ## Demo
 
-[Watch Demo Video]()
+[Watch Demo Video](https://drive.google.com/file/d/10eYtNfcHRr_zVZEdgt7fc2DbgEhHRLA9/view?usp=sharing)
 
 ## Features
 
